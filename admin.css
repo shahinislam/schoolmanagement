@@ -1,0 +1,125 @@
+body{
+    background-color:green;
+}
+h1.head{
+      text-align:center;
+	  
+}
+div.option{
+      background-color:white;
+	  width:1000px;
+	  height:1400px;
+	  position:absolute;
+	  top:100px;
+	  left:150px;
+}
+img.student{
+       width:350px;
+		height:350px;
+		position:absolute;
+		top:120px;
+		left:20px;
+}
+img.join{
+       width:200px;
+		height:500px;
+		position:absolute;
+		top:45px;
+		left:350px;
+}
+img.teacher{
+        width:350px;
+		height:350px;
+		position:absolute;
+		top:700px;
+		left:20px;
+}
+img.tjoin{
+       width:200px;
+		height:500px;
+		position:absolute;
+		top:600px;
+		left:350px;
+}
+
+img.sinsert{
+        width:400px;
+		height:200px;
+		position:absolute;
+		top:40px;
+		left:550px;
+}
+img.supdate{
+        width:400px;
+		height:200px;
+		position:absolute;
+		top:200px;
+		left:550px;
+}
+img.sdelete{
+        width:400px;
+		height:200px;
+		position:absolute;
+		top:360px;
+		left:550px;
+}
+img.tinsert{
+        width:400px;
+		height:200px;
+		position:absolute;
+		top:590px;
+		left:550px;
+}
+img.tupdate{
+        width:400px;
+		height:200px;
+		position:absolute;
+		top:750px;
+		left:550px;
+}
+img.tdelete{
+        width:400px;
+		height:200px;
+		position:absolute;
+		top:910px;
+		left:550px;
+}
+
+
+p{
+	position:absolute;
+	top:1150px;
+	left:400px;
+	color:Blue;
+	font-size:36px;
+	background-color:yellow;
+}
+a.notice {
+	position:absolute;
+	text-decoration:none;
+	top:1250px;
+	left:400px;
+	color:Blue;
+	font-size:36px;
+	background-color:yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

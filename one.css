@@ -1,0 +1,26 @@
+body{
+    background-color:mediumseagreen;
+}
+
+h1{
+   text-align:center;
+   
+}
+table{
+    width:1200px;
+	font-size:20px;
+	text-align:left;
+	background-color:white;
+}
+th{
+     background-color:deepskyblue;
+	 height:60px;
+	 text-align:center;
+}
+tr.odd{
+     background-color:lightseagreen;
+}
+
+tr.even{
+     background-color:lightskyblue;
+}
