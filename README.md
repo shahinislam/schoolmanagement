@@ -1,5 +1,14 @@
 # School Management System
 
+## About
+The main purpose using School Management System Project is to avoid manual problems and this website controls student, teacher information and also result processing system.
+Programming language used: PHP, HTML, CSS.
+
+## Installation
+- Run git clone https://github.com/shahinislam/schoolmanagement.git
+- Keep Project in local server
+- Create Database & Tables
+
 ## Home page
 ![home](https://user-images.githubusercontent.com/33843231/70909708-39e83c80-2038-11ea-88a7-bc3778513260.jpg)
 ## Notice Board
